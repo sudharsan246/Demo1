@@ -1,1 +1,1 @@
-"New Text for File 2\n  I am adding content" 
+"Happy for new branch" 
